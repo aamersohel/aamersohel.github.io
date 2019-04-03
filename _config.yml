@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Official Account
+title: Aamer Sohel
 email: aamersohel7@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Innovative ideas, programming challenges, projects and much more :)
